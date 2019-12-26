@@ -16,20 +16,6 @@ function johnLennonFacts(array){
   return facts
 }
 
-
-// function johnLennonFacts(array){
-//   while (array){
-//     if (array){
-//       [array.push]
-//     }
-//     else {
-//       return [array.push]
-//     }
-//   }
-//   return [array.push]
-// }
-
-
 function iLoveTheBeatles(num){
   let e = [];
   
